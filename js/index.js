@@ -4,6 +4,6 @@
 var element2 = document.createElement('div');
 
 element2.innerHTML = 'Hello, DOM!';
-element2.style.backgroundColor = '#010101';
+element2.style.backgroundColor = '#000001';
 
 document.body.appendChild(element2);
